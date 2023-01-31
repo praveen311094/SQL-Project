@@ -1,4 +1,4 @@
-Create a database of the hotel named “Grosvenor”
+Created a database of the hotel named “Grosvenor”
 
 Hotel database contains four tables---Hotel,Room,Booking and Guest
 
